@@ -1,6 +1,6 @@
 # Year-11-Unit-3-Boolean-Expressions-Quiz-Main
 
-Ensure that you read all instructions carefully. Do not include any additional methods that are not specified in this quiz description. Think carefully about your solution before writing anything down. Write your answers neatly - take pride in your work! Good luck, have fun! :)
+Ensure that you read all instructions carefully. Do not include any additional methods that are not specified in this quiz description. Think carefully about your solution before writing any code. Use meaningful variable names and proper indentation - take pride in your work! Good luck, have fun! :)
 
 1. Inside the Main class, complete the method calculateGrade. This method will take an integer argument and return a character that corresponds to the letter grade associated with a score. 
 
